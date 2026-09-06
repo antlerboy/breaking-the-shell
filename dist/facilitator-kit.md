@@ -1,3 +1,22 @@
-# Breaking the Shell
+Workshop flow – Breaking the Shell 
+The exercise is called 'breaking the shell’ , the minimum for it is about an hour (timings given below), although it works much better if given up to two hours. I've used it quite a lot and it really seems to work well.
+[5 mins]
+The set-up is to focus everyone on a vision - something clear and simple, quickly covered.
+[15 mins]
+Then the question is 'what barriers stand in the way of achieving this'? The idea then is to get as many barriers out as possible, one per post-it note. I usually get everyone to spend a couple of minutes producing as many as possible, then read them out and put them all on a flip-chart; hearing everyone else's tends to get people producing many more.
+[10 mins]
+At this stage it's a good idea to have a coffee break so people are just focusing on all the problems and issues - a deliberate down-point.
+[5 mins]
+The next step is to introduce the categorisation approach. Barriers are categorised into four groups:
+Brick walls - insurmountable obstacles we just have to live with!
+Paper walls - look like real walls until tested, but are easily overcome, even by individuals
+Partition walls - hard for individuals, but management or a project effort can overcome
+Mindset issues - like collective paper walls, common assumptions that are not easily overcome 
+[10 mins]
+Then everyone has to place their post-its on a different chart according to which type of barrier they are, and in the process group similar barriers together 
+[15 mins]
+Finally, there is a group discussion to agree the categorisation and consider the issues.
+The whole purpose of the exercise is to get all the concerns and obstacles out on the table, then change the way people are thinking about the obstacles. The categorisation changes our psychological approach - brick walls just aren't worth worrying about anyway, paper walls we should just get over, and the others can actually be worked on.
+This naturally leads on to an action planning session - every individual commits to overcome their 'paper walls', and key actions to address the partition walls and mindset issues are discussed and agreed. The whole set could potentially be done in an hour and a half, if squeezed.
 
-  Facilitator kit  Allow 60 minutes for the core exercise, or 90–120 minutes to explore disagreements and develop actions.   Print / save this kit as PDF   Download editable text  ·  Printable category cards  ·  Presentation sequence    1. Set a purpose · 5 minutes  Agree a clear, simple description of what you want to achieve. Keep it visible.    2. Surface the barriers · 15 minutes  Ask: ‘What stands in the way?’ Let people write independently, one barrier per note, then hear the contributions. Invite additional barriers prompted by what others say.    3. Pause · 10 minutes  Allow a short break. Resist resolving or dismissing the concerns before people have had space to express them.    4. Introduce the four categories · 5 minutes  Brick walls are constraints to work within; paper walls may give way when tested; partition walls need joint or management effort; mindset issues involve shared assumptions.    5. Sort and group · 10 minutes  Ask people to place each barrier, group related concerns, and notice disagreement. Classification depends on whose ability to act and what timeframe you mean.    6. Discuss and choose action · 15 minutes, then extend  Ask what makes a barrier belong in that category, what evidence could change the judgement, and who could act. Do not use the categories to dismiss a person’s experience. Agree an action, owner, and date for the barriers you will work on.   Provenance  Adapted from RedQuadrant’s ‘Breaking the shell’ overview and its original 5/15/10/5/10/15-minute sequence. The source makes the method available under a Creative Commons licence with attribution required; it does not identify a licence version. Credit RedQuadrant and retain this provenance when reusing the kit. Contact us to clarify terms for further redistribution.  
+Made available under a Creative Commons licence from RedQuadrant – attribution required.

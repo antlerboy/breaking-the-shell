@@ -1,4 +1,4 @@
-Workshop flow – Breaking the Shell 
+Workshop flow; Breaking the Shell 
 The exercise is called 'breaking the shell’ , the minimum for it is about an hour (timings given below), although it works much better if given up to two hours. I've used it quite a lot and it really seems to work well.
 [5 mins]
 The set-up is to focus everyone on a vision - something clear and simple, quickly covered.
@@ -19,4 +19,4 @@ Finally, there is a group discussion to agree the categorisation and consider th
 The whole purpose of the exercise is to get all the concerns and obstacles out on the table, then change the way people are thinking about the obstacles. The categorisation changes our psychological approach - brick walls just aren't worth worrying about anyway, paper walls we should just get over, and the others can actually be worked on.
 This naturally leads on to an action planning session - every individual commits to overcome their 'paper walls', and key actions to address the partition walls and mindset issues are discussed and agreed. The whole set could potentially be done in an hour and a half, if squeezed.
 
-Made available under a Creative Commons licence from RedQuadrant – attribution required.
+Made available under a Creative Commons licence from RedQuadrant; attribution required.

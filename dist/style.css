@@ -4,3 +4,39 @@
 .web-slide{padding:24px 0 40px}.slide-body{display:flow-root;max-width:900px}.slide-body p{font-size:20px}.slide-asset{float:right;width:min(38%,320px)!important;height:auto!important;margin:0 0 24px 30px}.web-slide h2{font-size:clamp(28px,4vw,42px);line-height:1.15}@media(max-width:540px){.slide-asset{float:none;width:min(100%,320px)!important;margin:0 0 20px}}@media print{.web-slide{break-after:page}.web-slide>a{display:none}}
 
 [hidden]{display:none!important}#barrier-list{padding-left:1.4rem;max-width:75ch}#barrier-list li{padding:10px 0;border-bottom:1px solid #d4dce2;display:flex;gap:16px;align-items:start;justify-content:space-between}#barrier-list li span{white-space:pre-wrap;overflow-wrap:anywhere}#barrier-list button{flex-shrink:0}.entry{grid-template-columns:1fr auto}.barrier-description{font-size:1rem;line-height:1.55}#begin-sorting{margin:20px 0}#unclassified{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px}#sorting>p{max-width:80ch}.card p{white-space:pre-wrap;overflow-wrap:anywhere}@media(max-width:600px){.entry{grid-template-columns:1fr}}@media print{[hidden]{display:none!important}button,.actions,#add,#back-to-list{display:none!important}.board{display:block}.column{break-inside:avoid}#purpose{border:0;min-height:80px}}
+
+/* A worksheet on screen and paper. The original illustrations identify the categories. */
+body { color: #262822; background: #fdfcf8; }
+header, main, footer { width: min(70rem, calc(100% - 2.5rem)); }
+header { align-items: baseline; flex-wrap: wrap; border-bottom: 1px solid #686b5f; }
+header > a { color: #262822; font: bold 1.6rem/1.2 Georgia, serif; text-decoration: none; }
+nav a[aria-current] { font-weight: bold; text-decoration-thickness: .15em; }
+main { padding-top: clamp(2rem, 4.5vw, 4.25rem); }
+h1 { font: bold clamp(2.35rem, 5.5vw, 4.4rem)/1.05 Georgia, serif; letter-spacing: -.035em; margin: 0 0 1.2rem; max-width: 22ch; }
+h2, h3 { line-height: 1.2; }
+main > p, .workshop-intro, .kit, .source-guidance, #add, #purpose { max-width: 47rem; }
+.lead { max-width: 56ch; font-size: clamp(1.18rem, 2vw, 1.45rem); line-height: 1.45; }
+.workshop-intro { border-bottom: 2px solid #41473d; margin-bottom: 1.5rem; padding-bottom: .6rem; }
+.field-heading, .category-meaning { display: block; font-weight: 700; }
+.field-heading { font-size: 1.38rem; }
+#purpose-help { margin: .35rem 0 .55rem; }
+#purpose { display: block; }
+textarea, input, select, button, .button { border-radius: 0; }
+.source-guidance { border-block: 1px solid #bdc0b5; }
+.prompt { font-style: italic; }
+.column { background: #f0f0e9; }
+.column .wall-image { max-height: 12rem; margin-inline: auto; }
+.category-card { max-width: 56rem; border: 1px solid #a6aa9d; border-left: 5px solid #41473d; background: white; }
+.definition { padding-top: 1.3rem; border-top: 1px solid #b5b9ab; }
+.session { max-width: 45rem; padding-left: 1.7rem; }
+.session li { padding: .45rem 0 .45rem .4rem; }
+button:disabled { opacity: .55; cursor: default; }
+@media (max-width: 37rem) {
+  .category-card, .definition { grid-template-columns: 1fr; }
+  .category-card img, .definition img { max-width: 9rem; }
+}
+@media print {
+  .category-card { border: 1px solid black; background: white; }
+  main > h1 + .lead, .category-card { break-inside: avoid; }
+  #purpose, #sorting { max-width: none; }
+}
